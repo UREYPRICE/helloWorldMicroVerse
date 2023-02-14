@@ -66,28 +66,21 @@ After you're finished please remove all the comments and instructions!
 
 **[Setup-up Hello Microverse Repo]** is a...
 
-## 🛠 Built With <a name="built-with">HTML & CSS</a>
+## 🛠 Built With <a name="built-with">HTML & CSS<a>
 
-### Tech Stack <a name="tech-stack">HTML & CSS<</a>
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
@@ -95,11 +88,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- **[Heading]**
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,9 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link]()
+- [Live Demo Link](https://github.com/UREYPRICE/helloWorldMicroVerse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,10 +162,6 @@ Clone this repository to your desired folder:
 
 > Just a single page with heading (h1).
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -203,7 +187,7 @@ If you like this project. Leave a star to this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Robert Albi] (https://github.com/Alabi12/)
+I would like to thank [RobertAlbi](https://github.com/Alabi12/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
