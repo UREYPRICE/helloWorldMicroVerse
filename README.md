@@ -203,7 +203,7 @@ If you like this project. Leave a star to this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [https://github.com/Alabi12/]
+I would like to thank [Robert Albi] (https://github.com/Alabi12/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
